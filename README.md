@@ -13,4 +13,4 @@ This project is an advancement on the previous plant monitor project that incorp
 
 Clone this repo for easy access
 
-`git clone ` 
+`git clone https://github.com/Jb591/PlantMonitorV2.git`
